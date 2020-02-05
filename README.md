@@ -1,7 +1,7 @@
 # Raltegravir-Model
 Whole-body PBPK model of Raltegravir.
 
-**The latest release of this model including a report on model building, model features and model evaluation can be found [here](../../releases/latest).**
+**The latest release of this model including a report on model building, model features and model evaluation can be found [here](https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.0).**
 
 <p align="center">
   <img src="Raltegravir.png">
