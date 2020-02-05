@@ -1,13 +1,11 @@
 # Raltegravir-Model
-Whole-body PBPK model of Raltegravir
+Whole-body PBPK model of Raltegravir.
+
+**The latest release of this model including a report on model building, model features and model evaluation can be found [here](../../releases/latest).**
 
 <p align="center">
   <img src="Raltegravir.png">
 </p>
-
-## Repository files
-
-Within this repository, we distribute a whole-body PBPK model of Raltegravir, that has been developed using clinical studies in adults and evaluated for its predictive performance of UGT1A1 mediated clearance after oral administration in children. 
 
 
 ## Code of conduct
