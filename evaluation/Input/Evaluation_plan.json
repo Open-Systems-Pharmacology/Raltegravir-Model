@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Raltegravir",
-            "Path": "../../Raltegravir.json",
+            "Path": "../../Raltegravir-Model.json",
             "BuildingBlocks": []
         }
     ],

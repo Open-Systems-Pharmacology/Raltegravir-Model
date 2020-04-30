@@ -4,11 +4,11 @@
 
 
 
-| Evaluation report version       | 1.0                                                          |
-| ------------------------------- | ------------------------------------------------------------ |
-| Repository                      | https://github.com/Open-Systems-Pharmacology/Raltegravir-Model |
-| Release                         | https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.0 |
-| OSP Version                     | 8.0                                                          |
-| Qualification framework version | 2.1                                                          |
-| Author                          | Ibrahim Ince (incei)                                         |
+| Version                                         | TODO                                                         |
+| ----------------------------------------------- | ------------------------------------------------------------ |
+| Model file and Evaluation Report                | TODO                                                         |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.0 |
+| OSP Version                                     | 9.0                                                          |
+| Qualification framework version                 | 2.1                                                          |
+| Author                                          | Ibrahim Ince ([incei](https://github.com/incei))             |
 
