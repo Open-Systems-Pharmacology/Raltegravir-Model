@@ -4,11 +4,16 @@
 
 
 
-| Version                                         | TODO                                                         |
+| Version                                         | x.x-OSPy.y                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| Model file and Evaluation Report                | TODO                                                         |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/v1.0 |
-| OSP Version                                     | 9.0                                                          |
-| Qualification framework version                 | 2.1                                                          |
-| Author                                          | Ibrahim Ince ([incei](https://github.com/incei))             |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Raltegravir-Model/releases/tag/vx.x |
+| OSP Version                                     | y.y                                                          |
+| Qualification Framework Version                 | z.z                                                          |
 
+
+
+
+
+This evaluation report and the corresponding PK-Sim project file are filed at:
+
+https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/
