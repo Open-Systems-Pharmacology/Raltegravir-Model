@@ -11,7 +11,7 @@ This repository contains:
 
 **The latest release of the snapshot of the model, the evaluation plan and the static content can be found [here](../../releases/latest).**
 
-**The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases).**
+**The latest release of the PK-Sim project model file and the respective evaluation report can be found [here](https://github.com/Open-Systems-Pharmacology/OSP-PBPK-Model-Library/releases/latest).**
 
 
 ## Code of conduct
