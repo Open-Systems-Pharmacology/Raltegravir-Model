@@ -4,10 +4,10 @@ A literature search was performed to collect available information on physicoche
 
 | **Parameter**   | **Unit**    | **Raltegravir literature**                                 | **Description**                                 |
 | :-------------- | ----------- | ---------------------------------------------------------- | ----------------------------------------------- |
-| MW              | g/mol       | 586.2 ([drugbank.ca](#5-References))                       | Molecular weight                                |
-| pKa             |             | 7.67 ([Moss 2012](#5-References))                          | Acid dissociation constant                      |
+| MW              | g/mol       | 444.4163 ([drugbank.ca](#5-References))                    | Molecular weight                                |
+| pKa             |             | 6.67 ([Moss 2012](#5-References))                          | Acid dissociation constant                      |
 | Solubility (pH) | mg/L        | Reference pH-dependent table  ([Moss 2013](#5-References)) | Solubility                                      |
-| logP            |             | 0.58 ([Moss 2012](#5-References))                          | Partition coefficient between octanol and water |
+| logD (pH 7)     |             | 0.58 ([Moss 2012](#5-References))                          | Partition coefficient between octanol and water |
 | fu              |             | 0.17 ([Laufer 2009](#5-References))                        | Fraction unbound                                |
 | Km UGT1A1       | µM          | 99 ([Kassahun 2007](#5-References))                        | Michaelis-Menten constant                       |
 | Vmax UGT1A1     | nmol/min/mg | 0.89 ([Kassahun 2007](#5-References))                      | Maximum rate of reaction                        |
