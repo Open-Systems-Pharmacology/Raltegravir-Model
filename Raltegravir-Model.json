@@ -15522,7 +15522,8 @@
               "Value": 0.58,
               "Unit": "Log Units",
               "ValueOrigin": {
-                "Source": "ParameterIdentification"
+                "Source": "Publication",
+                "Description": "Moss 2012"
               }
             }
           ]
@@ -24319,6 +24320,7 @@
               },
               {
                 "Unit": "",
+                "Dimension": "Dimensionless",
                 "Caption": "Residuals",
                 "Type": "Y",
                 "GridLines": false,
