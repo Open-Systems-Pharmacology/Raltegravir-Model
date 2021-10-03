@@ -5,12 +5,16 @@
 close all
 tic
 
+if exist(fullfile(cd,'re_input'),'dir')>0 rmdir(fullfile(cd,'re_input'),'s'); end
+if exist(fullfile(cd,'re_output'),'dir')>0 rmdir(fullfile(cd,'re_output'),'s'); end
+if exist(fullfile(cd,'report'),'dir')>0 rmdir(fullfile(cd,'report'),'s'); end
+
 
 % --------------------------------------------------------------
 % replace qualificationRunnerFolder and markdownJoinerFolder with your paths
-qualificationRunnerFolder = 'C:\OSPQualification\QualificationRunner9.0.91';
-markdownJoinerFolder = 'C:\OSPQualification\Markdownjoiner1.2.0.8';
-PKSimPortableFolder = 'C:\OSPQualification\PK-Sim9.0.170';
+qualificationRunnerFolder = 'C:\OSPQualification\QualificationRunner10.0.41';
+markdownJoinerFolder = 'C:\OSPQualification\markdown-joiner_1.2.0.8';
+PKSimPortableFolder = 'C:\OSPQualification\PK-Sim10.0.229';
 
 
 
@@ -27,7 +31,7 @@ PKSimPortableFolder = 'C:\OSPQualification\PK-Sim9.0.170';
 %   - report
 %
 
-basisDir = 'C:\Projects\Raltegravir-Model\';
+basisDir = fullfile(cd);
 qualificationPlanName = 'Evaluation_plan.json';
 
 % In case your folder structure is different from assumed above, 
@@ -40,15 +44,14 @@ qualificationPlanName = 'Evaluation_plan.json';
 %                  CAUTION: if the folder is not empty, its contents will be deleted
 %
 % - ReportOutput_path: final report will be generated here
-qualificationPlan = fullfile(basisDir,'evaluation','Input',qualificationPlanName);
+qualificationPlan = fullfile(basisDir,'Input',qualificationPlanName);
 REInput_path = fullfile(basisDir,'re_input');
 REOutput_path = fullfile(basisDir,'re_output');
 ReportOutput_path=fullfile(basisDir,'report');
 
 % --------------------------------------------------------------
 % STEP #1: start qualification runner to generate inputs for the reporting engine
-%startQualificationRunner(qualificationRunnerFolder, qualificationPlan, REInput_path, ['-p ' PKSimPortableFolder ' --logLevel Debug']);
-startQualificationRunner(qualificationRunnerFolder, qualificationPlan, REInput_path, ['-p ' PKSimPortableFolder ]);
+startQualificationRunner(qualificationRunnerFolder, qualificationPlan, REInput_path, ['-p ' PKSimPortableFolder ' --logLevel Debug']);
 
 % --------------------------------------------------------------
 % STEP #2: start reporting engine
