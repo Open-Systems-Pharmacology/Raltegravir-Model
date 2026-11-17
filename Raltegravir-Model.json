@@ -1,5 +1,7 @@
 {
-  "Version": 80,
+  "Name": "Raltegravir-Model",
+  "Version": 81,
+  "ApplicationName": "PK-Sim",
   "ExpressionProfiles": [
     {
       "Type": "Enzyme",
@@ -9,75 +11,93 @@
       "Parameters": [
         {
           "Path": "Organism|Gonads|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0013585313175
+          "Value": 0.0013585313175,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0788336933
+          "Value": 0.0788336933,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|Caecum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.0349892009
+          "Value": 0.0349892009,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A1|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|UGT1A1|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Lung|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.00027429805616
+          "Value": 0.00027429805616,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.3239740821
+          "Value": 0.3239740821,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Stomach|Intracellular|UGT1A1|Relative expression",
-          "Value": 0.016349892
+          "Value": 0.016349892,
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A1|Reference concentration",
@@ -92,12 +112,14 @@
         {
           "Path": "UGT1A1|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A1|t1/2 (liver)",
           "Value": 36.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -113,71 +135,88 @@
       "Parameters": [
         {
           "Path": "Organism|Gonads|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.00016153846154
+          "Value": 0.00016153846154,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Kidney|Intracellular|UGT1A9|Relative expression",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|Caecum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonAscendens|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonDescendens|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonSigmoid|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|LargeIntestine|Mucosa|ColonTransversum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0079487179487
+          "Value": 0.0079487179487,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Pericentral|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0982905983
+          "Value": 0.0982905983,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Liver|Periportal|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0982905983
+          "Value": 0.0982905983,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|Duodenum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerIleum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|LowerJejunum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperIleum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|SmallIntestine|Mucosa|UpperJejunum|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0041282051282
+          "Value": 0.0041282051282,
+          "ValueOrigin": {}
         },
         {
           "Path": "Organism|Stomach|Intracellular|UGT1A9|Relative expression",
-          "Value": 0.0017264957265
+          "Value": 0.0017264957265,
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A9|Reference concentration",
@@ -192,12 +231,14 @@
         {
           "Path": "UGT1A9|t1/2 (intestine)",
           "Value": 23.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Path": "UGT1A9|t1/2 (liver)",
           "Value": 36.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         }
       ],
       "Localization": "Intracellular, BloodCellsIntracellular, VascEndosome",
@@ -291,22 +332,22 @@
                 "Points": [
                   {
                     "X": 1.0,
-                    "Y": 40.000000000000007,
+                    "Y": 40.00000000000001,
                     "RestartSolver": false
                   },
                   {
                     "X": 2.5,
-                    "Y": 40.000000000000007,
+                    "Y": 40.00000000000001,
                     "RestartSolver": false
                   },
                   {
                     "X": 3.0,
-                    "Y": 40.000000000000007,
+                    "Y": 40.00000000000001,
                     "RestartSolver": false
                   },
                   {
                     "X": 4.0,
-                    "Y": 40.000000000000007,
+                    "Y": 40.00000000000001,
                     "RestartSolver": false
                   },
                   {
@@ -316,7 +357,7 @@
                   },
                   {
                     "X": 4.5,
-                    "Y": 80.000000000000014,
+                    "Y": 80.00000000000001,
                     "RestartSolver": false
                   },
                   {
@@ -386,7 +427,7 @@
           "Parameters": [
             {
               "Name": "Specific intestinal permeability (transcellular)",
-              "Value": 2.8481843854E-07,
+              "Value": 2.8481843854e-07,
               "Unit": "cm/s",
               "ValueOrigin": {
                 "Source": "ParameterIdentification"
@@ -508,7 +549,7 @@
       "Parameters": [
         {
           "Name": "Dissolution time (50% dissolved)",
-          "Value": 2.30152527E-10,
+          "Value": 2.30152527e-10,
           "Unit": "min",
           "ValueOrigin": {
             "Source": "ParameterIdentification"
@@ -517,7 +558,8 @@
         {
           "Name": "Lag time",
           "Value": 0.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Name": "Dissolution shape",
@@ -528,7 +570,8 @@
         },
         {
           "Name": "Use as suspension",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         }
       ]
     },
@@ -538,7 +581,7 @@
       "Parameters": [
         {
           "Name": "Dissolution time (50% dissolved)",
-          "Value": 1.0000049774E-05,
+          "Value": 1.0000049774e-05,
           "Unit": "min",
           "ValueOrigin": {
             "Source": "ParameterIdentification"
@@ -547,7 +590,8 @@
         {
           "Name": "Lag time",
           "Value": 0.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Name": "Dissolution shape",
@@ -558,7 +602,8 @@
         },
         {
           "Name": "Use as suspension",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         }
       ]
     },
@@ -577,7 +622,8 @@
         {
           "Name": "Lag time",
           "Value": 0.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Name": "Dissolution shape",
@@ -588,7 +634,8 @@
         },
         {
           "Name": "Use as suspension",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         }
       ]
     },
@@ -607,7 +654,8 @@
         {
           "Name": "Lag time",
           "Value": 0.0,
-          "Unit": "min"
+          "Unit": "min",
+          "ValueOrigin": {}
         },
         {
           "Name": "Dissolution shape",
@@ -618,7 +666,8 @@
         },
         {
           "Name": "Use as suspension",
-          "Value": 1.0
+          "Value": 1.0,
+          "ValueOrigin": {}
         }
       ]
     }
@@ -632,17 +681,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 400.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -654,17 +706,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 10.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -676,17 +731,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 25.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -698,17 +756,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 50.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -720,17 +781,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 100.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -742,17 +806,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 200.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -764,17 +831,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 800.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -786,17 +856,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 1200.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -808,17 +881,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 1600.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ]
     },
@@ -830,17 +906,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 100.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Name": "End time",
@@ -860,17 +939,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 200.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Name": "End time",
@@ -890,17 +972,20 @@
         {
           "Name": "Start time",
           "Value": 0.0,
-          "Unit": "h"
+          "Unit": "h",
+          "ValueOrigin": {}
         },
         {
           "Name": "InputDose",
           "Value": 400.0,
-          "Unit": "mg"
+          "Unit": "mg",
+          "ValueOrigin": {}
         },
         {
           "Name": "Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Name": "End time",
@@ -933,17 +1018,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -952,7 +1040,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -965,7 +1054,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -974,7 +1064,8 @@
         {
           "Path": "Events|Iwamoto 2008 800mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1181,17 +1272,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1200,7 +1294,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1213,7 +1308,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1222,7 +1318,8 @@
         {
           "Path": "Events|Iwamoto 2008 10mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1429,17 +1526,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1448,7 +1548,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1461,7 +1562,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1470,7 +1572,8 @@
         {
           "Path": "Events|Iwamoto 2008 100mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1673,17 +1776,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1692,7 +1798,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1705,7 +1812,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1714,7 +1822,8 @@
         {
           "Path": "Events|Iwamoto 2008 1200mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -1921,17 +2030,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -1940,7 +2052,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -1953,7 +2066,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -1962,7 +2076,8 @@
         {
           "Path": "Events|Iwamoto 2008 1600mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2169,17 +2284,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2188,7 +2306,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2201,7 +2320,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2210,7 +2330,8 @@
         {
           "Path": "Events|Iwamoto 2008 200mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2417,17 +2538,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2436,7 +2560,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2449,7 +2574,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2458,7 +2584,8 @@
         {
           "Path": "Events|Iwamoto 2008 25mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2665,17 +2792,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2684,7 +2814,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2697,7 +2828,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2706,7 +2838,8 @@
         {
           "Path": "Events|Iwamoto 2008 50mg PO (Figure 2) Safety-Tolerability-PK study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -2913,17 +3046,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -2932,7 +3068,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -2945,7 +3082,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -2954,7 +3092,8 @@
         {
           "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3163,17 +3302,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -3182,7 +3324,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -3195,7 +3338,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -3204,7 +3348,8 @@
         {
           "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3465,17 +3610,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -3484,7 +3632,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -3497,7 +3646,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -3506,7 +3656,8 @@
         {
           "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|Weibull (lactose formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -3713,17 +3864,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -3732,7 +3886,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -3745,7 +3900,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -3782,102 +3938,122 @@
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 100mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4093,17 +4269,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -4112,7 +4291,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -4125,7 +4305,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -4162,102 +4343,122 @@
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 200mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4491,17 +4692,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -4510,7 +4714,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -4523,7 +4728,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -4560,102 +4766,122 @@
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_10|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_11|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_12|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_13|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_14|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_15|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_16|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_17|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_18|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_19|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_2|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_20|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_3|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_4|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_5|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_6|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_7|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_8|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         },
         {
           "Path": "Events|Markowitz 2006 400mg bid 10d|filmcoated tablet (original Merck formulation)|Application_9|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -4870,7 +5096,8 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -4895,7 +5122,8 @@
         {
           "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|Weibull (granules)|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -5102,17 +5330,20 @@
             {
               "Name": "Start time",
               "Value": 0.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "Resolution",
               "Value": 20.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5121,7 +5352,8 @@
             {
               "Name": "Start time",
               "Value": 2.0,
-              "Unit": "h"
+              "Unit": "h",
+              "ValueOrigin": {}
             },
             {
               "Name": "End time",
@@ -5134,7 +5366,8 @@
             {
               "Name": "Resolution",
               "Value": 4.0,
-              "Unit": "pts/h"
+              "Unit": "pts/h",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -5143,7 +5376,8 @@
         {
           "Path": "Events|Iwamoto 2008 400mg PO (Figure 1) omeprazole study|chewable tablet|Application_1|ProtocolSchemaItem|Volume of water/body weight",
           "Value": 3.5,
-          "Unit": "ml/kg"
+          "Unit": "ml/kg",
+          "ValueOrigin": {}
         }
       ],
       "OutputSelections": [
@@ -5200,7 +5434,8 @@
           "Name": "Food",
           "StartTime": {
             "Value": 0.0,
-            "Unit": "h"
+            "Unit": "h",
+            "ValueOrigin": {}
           }
         }
       ],
@@ -5501,15 +5736,18 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 0.0330145519
+              "Value": 0.0330145519,
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 0.0001
+              "Value": 0.0001,
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
-              "Value": 5.0
+              "Value": 5.0,
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5527,17 +5765,20 @@
             {
               "Name": "Start value",
               "Value": 500.0,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
               "Value": 0.0001,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 600.0,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5559,15 +5800,18 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 0.0389537131
+              "Value": 0.0389537131,
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 0.0001
+              "Value": 0.0001,
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
-              "Value": 5.0
+              "Value": 5.0,
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5589,18 +5833,21 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 2.30152527E-10,
-              "Unit": "min"
+              "Value": 2.30152527e-10,
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 2E-10,
-              "Unit": "min"
+              "Value": 2e-10,
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 180.0,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5615,18 +5862,21 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 1.0000049774E-05,
-              "Unit": "min"
+              "Value": 1.0000049774e-05,
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 1E-05,
-              "Unit": "min"
+              "Value": 1e-05,
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 180.0,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5640,15 +5890,18 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 0.0511891075
+              "Value": 0.0511891075,
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 0.0001
+              "Value": 0.0001,
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
-              "Value": 5.0
+              "Value": 5.0,
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5678,17 +5931,20 @@
             {
               "Name": "Start value",
               "Value": 0.58,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
               "Value": -1.6,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 1.5,
-              "Unit": "Log Units"
+              "Unit": "Log Units",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5701,15 +5957,18 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 0.1010842985
+              "Value": 0.1010842985,
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 0.001
+              "Value": 0.001,
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
-              "Value": 1.010842985
+              "Value": 1.010842985,
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5724,17 +5983,20 @@
             {
               "Name": "Start value",
               "Value": 0.00010000047426,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 1E-05,
-              "Unit": "min"
+              "Value": 1e-05,
+              "Unit": "min",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 0.0010000047426,
-              "Unit": "min"
+              "Unit": "min",
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5780,15 +6042,18 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 1.0
+              "Value": 1.0,
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 0.1
+              "Value": 0.1,
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
-              "Value": 10.0
+              "Value": 10.0,
+              "ValueOrigin": {}
             }
           ]
         },
@@ -5817,18 +6082,21 @@
           "Parameters": [
             {
               "Name": "Start value",
-              "Value": 2.8481843854E-07,
-              "Unit": "cm/s"
+              "Value": 2.8481843854e-07,
+              "Unit": "cm/s",
+              "ValueOrigin": {}
             },
             {
               "Name": "MinValue",
-              "Value": 2.7366666667E-08,
-              "Unit": "cm/s"
+              "Value": 2.7366666667e-08,
+              "Unit": "cm/s",
+              "ValueOrigin": {}
             },
             {
               "Name": "MaxValue",
               "Value": 0.0001642,
-              "Unit": "cm/s"
+              "Unit": "cm/s",
+              "ValueOrigin": {}
             }
           ]
         }
@@ -6078,741 +6346,6 @@
                   "LineStyle": "None",
                   "Symbol": "Circle"
                 }
-              },
-              {
-                "Name": "1-Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#808080",
-                  "LegendIndex": 19
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C000C0",
-                  "LegendIndex": 20
-                }
-              },
-              {
-                "Name": "1-Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00FF00",
-                  "LegendIndex": 21
-                }
-              },
-              {
-                "Name": "1-Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#8080FF",
-                  "LegendIndex": 22
-                }
-              },
-              {
-                "Name": "1-Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000C0",
-                  "LegendIndex": 23
-                }
-              },
-              {
-                "Name": "1-Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C000",
-                  "LegendIndex": 24
-                }
-              },
-              {
-                "Name": "1-Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C0C000",
-                  "LegendIndex": 25
-                }
-              },
-              {
-                "Name": "1-Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C04000",
-                  "LegendIndex": 26
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF00FF",
-                  "LegendIndex": 27
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000FF",
-                  "LegendIndex": 28
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C0C0",
-                  "LegendIndex": 29
-                }
-              },
-              {
-                "Name": "1-Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF0000",
-                  "LegendIndex": 30
-                }
-              },
-              {
-                "Name": "1-Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF8000",
-                  "LegendIndex": 31
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C00000",
-                  "LegendIndex": 32
-                }
-              },
-              {
-                "Name": "1-Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#008000",
-                  "LegendIndex": 33
-                }
-              },
-              {
-                "Name": "2-Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#808080",
-                  "LegendIndex": 34
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C000C0",
-                  "LegendIndex": 35
-                }
-              },
-              {
-                "Name": "2-Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00FF00",
-                  "LegendIndex": 36
-                }
-              },
-              {
-                "Name": "2-Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#8080FF",
-                  "LegendIndex": 37
-                }
-              },
-              {
-                "Name": "2-Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000C0",
-                  "LegendIndex": 38
-                }
-              },
-              {
-                "Name": "2-Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C000",
-                  "LegendIndex": 39
-                }
-              },
-              {
-                "Name": "2-Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C0C000",
-                  "LegendIndex": 40
-                }
-              },
-              {
-                "Name": "2-Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C04000",
-                  "LegendIndex": 41
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF00FF",
-                  "LegendIndex": 42
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000FF",
-                  "LegendIndex": 43
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C0C0",
-                  "LegendIndex": 44
-                }
-              },
-              {
-                "Name": "2-Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF0000",
-                  "LegendIndex": 45
-                }
-              },
-              {
-                "Name": "2-Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF8000",
-                  "LegendIndex": 46
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C00000",
-                  "LegendIndex": 47
-                }
-              },
-              {
-                "Name": "2-Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#008000",
-                  "LegendIndex": 48
-                }
-              },
-              {
-                "Name": "3-Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#808080",
-                  "LegendIndex": 49
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C000C0",
-                  "LegendIndex": 50
-                }
-              },
-              {
-                "Name": "3-Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00FF00",
-                  "LegendIndex": 51
-                }
-              },
-              {
-                "Name": "3-Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#8080FF",
-                  "LegendIndex": 52
-                }
-              },
-              {
-                "Name": "3-Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000C0",
-                  "LegendIndex": 53
-                }
-              },
-              {
-                "Name": "3-Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C000",
-                  "LegendIndex": 54
-                }
-              },
-              {
-                "Name": "3-Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C0C000",
-                  "LegendIndex": 55
-                }
-              },
-              {
-                "Name": "3-Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C04000",
-                  "LegendIndex": 56
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF00FF",
-                  "LegendIndex": 57
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000FF",
-                  "LegendIndex": 58
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C0C0",
-                  "LegendIndex": 59
-                }
-              },
-              {
-                "Name": "3-Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF0000",
-                  "LegendIndex": 60
-                }
-              },
-              {
-                "Name": "3-Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF8000",
-                  "LegendIndex": 61
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C00000",
-                  "LegendIndex": 62
-                }
-              },
-              {
-                "Name": "3-Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#008000",
-                  "LegendIndex": 63
-                }
-              },
-              {
-                "Name": "4-Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#808080",
-                  "LegendIndex": 64
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C000C0",
-                  "LegendIndex": 65
-                }
-              },
-              {
-                "Name": "4-Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00FF00",
-                  "LegendIndex": 66
-                }
-              },
-              {
-                "Name": "4-Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#8080FF",
-                  "LegendIndex": 67
-                }
-              },
-              {
-                "Name": "4-Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000C0",
-                  "LegendIndex": 68
-                }
-              },
-              {
-                "Name": "4-Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C000",
-                  "LegendIndex": 69
-                }
-              },
-              {
-                "Name": "4-Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C0C000",
-                  "LegendIndex": 70
-                }
-              },
-              {
-                "Name": "4-Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C04000",
-                  "LegendIndex": 71
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF00FF",
-                  "LegendIndex": 72
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#0000FF",
-                  "LegendIndex": 73
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#00C0C0",
-                  "LegendIndex": 74
-                }
-              },
-              {
-                "Name": "4-Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF0000",
-                  "LegendIndex": 75
-                }
-              },
-              {
-                "Name": "4-Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#FF8000",
-                  "LegendIndex": 76
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#C00000",
-                  "LegendIndex": 77
-                }
-              },
-              {
-                "Name": "4-Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Visible": false,
-                  "Color": "#008000",
-                  "LegendIndex": 78
-                }
-              },
-              {
-                "Name": "5-Raltegravir 50 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#808080",
-                  "LegendIndex": 79
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400mg (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C000C0",
-                  "LegendIndex": 80
-                }
-              },
-              {
-                "Name": "5-Raltegravir 25 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00FF00",
-                  "LegendIndex": 81
-                }
-              },
-              {
-                "Name": "5-Raltegravir 200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#8080FF",
-                  "LegendIndex": 82
-                }
-              },
-              {
-                "Name": "5-Raltegravir 1600 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#0000C0",
-                  "LegendIndex": 83
-                }
-              },
-              {
-                "Name": "5-Raltegravir 1200 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00C000",
-                  "LegendIndex": 84
-                }
-              },
-              {
-                "Name": "5-Raltegravir 100 mg  (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C0C000",
-                  "LegendIndex": 85
-                }
-              },
-              {
-                "Name": "5-Raltegravir 10 mg   (lactose formulation)-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C04000",
-                  "LegendIndex": 86
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400mg (granules in suspension) lsf-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF00FF",
-                  "LegendIndex": 87
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400mg filmcoated tablet-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#0000FF",
-                  "LegendIndex": 88
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00C0C0",
-                  "LegendIndex": 89
-                }
-              },
-              {
-                "Name": "5-Raltegravir 200 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF0000",
-                  "LegendIndex": 90
-                }
-              },
-              {
-                "Name": "5-Raltegravir 100 mg filmcoated tablet md-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF8000",
-                  "LegendIndex": 91
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400mg chewable fed-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C00000",
-                  "LegendIndex": 92
-                }
-              },
-              {
-                "Name": "5-Raltegravir 400mg chewable fasted-Raltegravir-Peripheral Venous Blood-Plasma-Concentration",
-                "X": "Time",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#008000",
-                  "LegendIndex": 93
-                }
               }
             ],
             "Name": "Time Profile",
@@ -6863,209 +6396,6 @@
                 "NumberMode": "Normal"
               }
             ],
-            "Curves": [
-              {
-                "Name": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 50mg - Raltegravir - PO - 50 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 50 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF0000",
-                  "LegendIndex": 1,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 400mg - Raltegravir - PO - 400 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#0000FF",
-                  "LegendIndex": 2,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 25mg - Raltegravir - PO - 25 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 25 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#008000",
-                  "LegendIndex": 3,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 200mg - Raltegravir - PO - 200 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF00FF",
-                  "LegendIndex": 4,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 1600mg - Raltegravir - PO - 1600 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 1600 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#FF8000",
-                  "LegendIndex": 5,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 1200mg - Raltegravir - PO - 1200 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 1200 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00C0C0",
-                  "LegendIndex": 6,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 100mg - Raltegravir - PO - 100 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 100 mg  (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C000C0",
-                  "LegendIndex": 7,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 10mg - Raltegravir - PO - 10 mg - Plasma - agg. (n=24)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 10 mg   (lactose formulation)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C04000",
-                  "LegendIndex": 8,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg (granules in suspension) lsf|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Rhee 2014 - granules suspension - Raltegravir - po - 400 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg (granules in suspension)|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00FF00",
-                  "LegendIndex": 9,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Rhee 2014 - filmcoated tablet - Raltegravir - po - 400 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#808080",
-                  "LegendIndex": 10,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Wenning 2009 - 400mg - Raltegravir - PO - 400 mg - Plasma - agg. (n=10)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "VisibleInLegend": false,
-                  "Color": "#808080",
-                  "LegendIndex": 11,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Iwamoto 2008 - 400mg FCT - Raltegravir - PO - 400 mg - Plasma - agg. (n=14)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg filmcoated tablet|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "VisibleInLegend": false,
-                  "Color": "#808080",
-                  "LegendIndex": 12,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Markowitz 2006 - 400mg FCT MD - Raltegravir - PO - 400 mg - Plasma - agg. (n=6)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C0C000",
-                  "LegendIndex": 13,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Kassahun 2007 - 200mg FCT SD - Raltegravir - PO - 200 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#8080FF",
-                  "LegendIndex": 14,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Markowitz 2006 - 200mg FCT MD - Raltegravir - PO - 200 mg - Plasma - agg. (n=7)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 200 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "VisibleInLegend": false,
-                  "Color": "#8080FF",
-                  "LegendIndex": 15,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Markowitz 2006 - 100mg FCT MD - Raltegravir - PO - 100 mg - Plasma - agg. (n=7)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 100 mg filmcoated tablet md|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#0000C0",
-                  "LegendIndex": 16,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Rhee 2014 - Chewable tablet fed - Raltegravir - po - 400 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg chewable fed|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#00C000",
-                  "LegendIndex": 17,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              },
-              {
-                "Name": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "X": "Rhee 2014 - Chewable tablet fasted - Raltegravir - po - 400 mg - Plasma - agg. (n=12)|ObservedData|Peripheral Venous Blood|Plasma|Raltegravir|ArithmeticMean",
-                "Y": "Raltegravir 400mg chewable fasted|Organism|PeripheralVenousBlood|Raltegravir|Plasma (Peripheral Venous Blood)",
-                "CurveOptions": {
-                  "Color": "#C00000",
-                  "LegendIndex": 18,
-                  "LineStyle": "None",
-                  "Symbol": "Diamond"
-                }
-              }
-            ],
             "Name": "Predicted vs. Observed",
             "FontAndSize": {
               "Fonts": {
@@ -7108,7 +6438,6 @@
               },
               {
                 "Unit": "",
-                "Dimension": "Dimensionless",
                 "Caption": "Residuals",
                 "Type": "Y",
                 "GridLines": false,
@@ -7253,16 +6582,16 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            0.144144148,
-            0.882882953,
-            1.33333337,
-            1.74774778,
-            1.90991008,
-            0.972973049,
+            0.14414415,
+            0.88288295,
+            1.3333334,
+            1.7477478,
+            1.9099101,
+            0.97297305,
             0.5945946,
-            0.216216221,
-            0.126126125,
-            0.0540540554
+            0.21621622,
+            0.12612613,
+            0.054054055
           ],
           "Dimension": "Concentration (molar)",
           "Unit": "µmol/l"
@@ -7400,16 +6729,16 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            0.432432443,
-            1.22522521,
-            2.59459472,
-            2.12612629,
-            2.54054046,
+            0.43243244,
+            1.2252252,
+            2.5945947,
+            2.1261263,
+            2.5405405,
             1.873874,
-            1.02702713,
+            1.0270271,
             0.45045048,
             0.2702703,
-            0.144144148
+            0.14414415
           ],
           "Dimension": "Concentration (molar)",
           "Unit": "µmol/l"
@@ -7547,12 +6876,12 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            0.360360384,
-            3.62162185,
-            5.04504538,
+            0.36036038,
+            3.6216218,
+            5.0450454,
             4.486487,
-            4.14414454,
-            2.57657671,
+            4.1441445,
+            2.5765767,
             2.036036,
             0.6306307,
             0.3063063,
@@ -7694,13 +7023,13 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            3.06122446,
+            3.0612245,
             4.359184,
-            2.86530614,
-            1.51836729,
+            2.8653061,
+            1.5183673,
             0.8081633,
-            0.391836733,
-            0.171428576,
+            0.39183673,
+            0.17142858,
             0.09795918,
             0.07346939,
             0.09795918
@@ -7842,16 +7171,16 @@
           },
           "Values": [
             16.033226,
-            12.3015041,
+            12.301504,
             8.780407,
-            6.41994667,
-            3.68931413,
-            2.12011719,
-            1.21835566,
+            6.4199467,
+            3.6893141,
+            2.1201172,
+            1.2183557,
             0.7346979,
             0.3087022,
-            0.190692991,
-            0.149876043,
+            0.19069299,
+            0.14987604,
             0.09037888,
             0.069343254
           ],
@@ -7997,10 +7326,10 @@
             5.556098,
             5.972424,
             5.423875,
-            5.16879272,
+            5.1687927,
             4.161471,
-            3.87138319,
-            2.76326537,
+            3.8713832,
+            2.7632654,
             1.7485491,
             0.91253823,
             0.7709555,
@@ -8147,17 +7476,17 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            18.9776611,
-            19.4403019,
-            16.8244724,
-            11.1716461,
+            18.977661,
+            19.440302,
+            16.824472,
+            11.171646,
             5.972424,
-            3.19289112,
-            1.62666118,
-            1.02932453,
-            0.432497174,
-            0.260806262,
-            0.177400157,
+            3.1928911,
+            1.6266612,
+            1.0293245,
+            0.43249717,
+            0.26080626,
+            0.17740016,
             0.10443075,
             0.069343254
           ],
@@ -8300,18 +7629,18 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            1.18936133,
-            2.89963365,
-            3.51580763,
-            4.06243658,
+            1.1893613,
+            2.8996336,
+            3.5158076,
+            4.0624366,
             2.970321,
-            2.89963365,
+            2.8996336,
             2.391449,
-            1.44210148,
-            0.511923432,
-            0.248540685,
-            0.161106452,
-            0.0995194539,
+            1.4421015,
+            0.51192343,
+            0.24854068,
+            0.16110645,
+            0.099519454,
             0.0710337
           ],
           "Dimension": "Concentration (molar)",
@@ -8455,11 +7784,11 @@
           "Values": [
             0.0860435,
             0.5084305,
-            0.356392741,
-            0.206319377,
-            0.140723959,
+            0.35639274,
+            0.20631938,
+            0.14072396,
             0.07303003,
-            0.0603136122,
+            0.060313612,
             0.020773394,
             0.00966414,
             0.004374713
@@ -8601,13 +7930,13 @@
           },
           "Values": [
             0.3975636,
-            0.725327432,
+            0.72532743,
             0.45577848,
             0.32833752,
-            0.152748287,
+            0.15274829,
             0.07927016,
-            0.0251532122,
-            0.0149649121,
+            0.025153212,
+            0.014964912,
             0.006591604
           ],
           "Dimension": "Concentration (molar)",
@@ -8745,16 +8074,16 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            1.42292488,
+            1.4229249,
             1.7391305,
-            1.18577075,
-            0.869565248,
+            1.1857708,
+            0.86956525,
             0.2864002,
             0.09598334,
-            0.0511916131,
-            0.0251532122,
-            0.0149649121,
-            0.0127015766,
+            0.051191613,
+            0.025153212,
+            0.014964912,
+            0.012701577,
             0.006961935
           ],
           "Dimension": "Concentration (molar)",
@@ -8895,16 +8224,16 @@
           },
           "Values": [
             2.450593,
-            2.13438749,
-            1.58102775,
-            1.18577075,
+            2.1343875,
+            1.5810277,
+            1.1857708,
             0.766078,
             0.4315339,
-            0.129646182,
+            0.12964618,
             0.07303003,
-            0.0265663769,
-            0.0176315624,
-            0.0113862278,
+            0.026566377,
+            0.017631562,
+            0.011386228,
             0.006961935
           ],
           "Dimension": "Concentration (molar)",
@@ -9048,16 +8377,16 @@
             5.217391,
             5.6916995,
             4.743083,
-            3.55731225,
-            2.29249024,
-            1.18577075,
-            0.419899642,
-            0.217910871,
+            3.5573123,
+            2.2924902,
+            1.1857708,
+            0.41989964,
+            0.21791087,
             0.09864278,
             0.06370217,
             0.04716181,
             0.04113802,
-            0.0104899043
+            0.010489904
           ],
           "Dimension": "Concentration (molar)",
           "Unit": "µmol/l"
@@ -9198,16 +8527,16 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            1.66007912,
-            5.61264849,
+            1.6600791,
+            5.6126485,
             8.458498,
             8.142292,
             6.798419,
-            3.79446626,
+            3.7944663,
             2.055336,
-            0.536995232,
+            0.53699523,
             0.3024908,
-            0.0884275362,
+            0.088427536,
             0.04344925,
             0.03397483,
             0.01715621,
@@ -9353,19 +8682,19 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            2.13438749,
+            2.1343875,
             12.094861,
             20.237154,
-            23.0039539,
+            23.003954,
             16.679842,
             9.090909,
             5.296443,
-            1.47618091,
+            1.4761809,
             0.5225177,
-            0.206319377,
-            0.129646182,
+            0.20631938,
+            0.12964618,
             0.113086954,
-            0.0837237462,
+            0.083723746,
             0.04113802
           ],
           "Dimension": "Concentration (molar)",
@@ -9508,7 +8837,7 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            2.84584975,
+            2.8458498,
             12.490119,
             27.35178,
             27.98419,
@@ -9516,11 +8845,11 @@
             14.071146,
             8.063241,
             2.105921,
-            0.725327432,
-            0.148630157,
+            0.72532743,
+            0.14863016,
             0.110038094,
             0.07505349,
-            0.0238152239,
+            0.023815224,
             0.005154258
           ],
           "Dimension": "Concentration (molar)",
@@ -9666,17 +8995,17 @@
             10.592886,
             27.50988,
             35.25692,
-            31.4624519,
-            24.0316219,
+            31.462452,
+            24.031622,
             13.517787,
             7.351779,
-            1.83694053,
-            0.599029541,
+            1.8369405,
+            0.59902954,
             0.2638548,
             0.19007802,
-            0.122749813,
+            0.12274981,
             0.09598334,
-            0.0571053363,
+            0.057105336,
             0.009150068
           ],
           "Dimension": "Concentration (molar)",
@@ -9820,17 +9149,17 @@
             "MolWeight": 444.4163
           },
           "Values": [
-            5.31237745,
+            5.3123775,
             7.465619,
             8.094303,
-            7.54420471,
+            7.5442047,
             4.80943,
-            2.89194512,
-            1.44597256,
+            2.8919451,
+            1.4459726,
             0.848723,
-            0.282907665,
-            0.172888011,
-            0.141453832
+            0.28290766,
+            0.17288801,
+            0.14145383
           ],
           "Dimension": "Concentration (molar)",
           "Unit": "µmol/l"
